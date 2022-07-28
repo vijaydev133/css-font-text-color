@@ -1,0 +1,133 @@
+/* ********************************************************** */
+
+/* font-family */
+/* default : Times New Roman */
+/* h1{
+    font-family: 'Source Sans Pro', sans-serif;
+    
+} */
+
+/* ************************* */
+
+/* font-size */
+/* default : H1: 32 pt (30–34pt) H2: 26 pt (24–28pt) H3: 22 pt (20–24pt) H4: 20 pt (18–22pt) */
+/* px,rem,em */
+/* h1{
+    font-size: 2em;
+} */
+
+/* ************************* */
+
+/* font-style */
+/* default : Normal*/
+/* h1{
+    font-style: italic;
+    
+} */
+
+/* ************************* */
+
+/* font-weight */
+/* default : Normal*/
+/* bold, lighter,bolder,100,900*/
+/* h1{
+    font-weight: bold;
+    
+} */
+
+/* ********************************************************** */
+
+/* Text */
+
+/* text-align */
+/* default : left*/
+/* left, right, center and justified alignment */
+
+/* p{
+    text-align: left;
+} */
+
+/* ************************* */
+
+/* text-decoration */
+/* default : none*/
+/*  underline, overline, line-through or none */
+
+/* p{
+    text-decoration : none; 
+} */
+
+/* ************************* */
+
+
+/* text-transform */
+/* default : none*/
+/*   uppercase, lowercase or capitalize*/
+
+/* p{
+    text-transform:capitalize;
+} */
+
+/* ************************* */
+
+/* text-indent */
+/* default : none*/
+/*  in px*/
+
+/* p{
+    text-indent: 60px;
+} */
+
+/* ************************* */
+
+/* letter-spacing */
+/* default : none*/
+/*  in px*/
+
+/* p{
+    letter-spacing: 1px;
+} */
+
+/* ************************* */
+
+/* text-shadow */
+/* default : none*/
+/*  x-axis,y-axis,color*/
+
+/* p{
+    text-shadow: 1px 1px red;
+} */
+
+/* ************************* */
+
+/* word-spacing */
+/* default : none*/
+/*  in px*/
+
+/* p{
+    word-spacing: 3px;
+} */
+
+
+
+/* ********************************************************** */
+
+
+/* Color */
+
+/* color can be given by name,hex,rgb */
+/* Name */
+/* p{
+    color: red;
+} */
+
+/* hex - decimal - color*/ 
+/* #000000 - rgb(0,0,0) - black */
+/* #808080 - rgb(128,128,128) - gray */
+/* #FFFFFF - rgb(255,255,255) - white */
+
+
+/* #FF0000 - rgb(255,0,0) - red */
+/* #00FF00 - rgb(0,255,0) - green */
+/* #0000FF - rgb(0,0,255) - blue */
+
